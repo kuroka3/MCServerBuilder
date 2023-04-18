@@ -1,0 +1,54 @@
+{
+  "langs": {
+    "list": [
+      "ko_kr",
+      "en_us"
+    ],
+    "ko_kr": "\ud55c\uad6d\uc5b4",
+    "en_us": "English"
+  },
+  "ko_kr": {
+    "blank": " ",
+    "EULA1": "\uc774\u0020\ud504\ub85c\uadf8\ub7a8\uc740\u0020\u0045\u0055\u004c\u0041\u0020\ub3d9\uc758\uac00\u0020\ud544\uc694\ud569\ub2c8\ub2e4\u002e.",
+    "EULA2": "\u0045\u0055\u004c\u0041\ub97c\u0020\ub3d9\uc758\u0020\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c\u003f",
+    "EULAsuc": "\u0045\u0055\u004c\u0041\uc5d0\u0020\ub3d9\uc758\ud558\uc168\uc2b5\ub2c8\ub2e4\u003a\u0020",
+    "taskkill": "\ud504\ub85c\uadf8\ub7a8\uc744\u0020\uc885\ub8cc\ud569\ub2c8\ub2e4\u002e",
+    "misping": "\uc798\ubabb\ub41c\u0020\uc785\ub825\uc785\ub2c8\ub2e4\u002e\u0020\ub2e4\uc2dc\u0020\uc785\ub825\ud558\uc138\uc694\u002e",
+    "ipath": "\uc11c\ubc84\u0020\ud3f4\ub354\uac00\u0020\uc0dd\uc131\ub420\u0020\uc704\uce58\ub97c\u0020\uc785\ub825\ud558\uc138\uc694",
+    "svname": "\uc11c\ubc84\u0020\ud3f4\ub354\uc758\u0020\uc774\ub984\uc744\u0020\uc785\ub825\ud558\uc138\uc694",
+    "sver": "\uc11c\ubc84\u0020\ubc84\uc804\uc744\u0020\uc785\ub825\ud558\uc138\uc694\u0020\u003a\u0020\u0065\u0078\u0029\u0020\u0031\u002e\u0031\u0039\u002e\u0034",
+    "APIfailed": "\u0041\u0050\u0049\u0020\uc694\uccad\uc774\u0020\uc2e4\ud328\ud588\uc2b5\ub2c8\ub2e4\u002e\u0020\uc751\ub2f5\u0020\ucf54\ub4dc\u003a\u0020",
+    "folderfailed": "\ud3f4\ub354\u0020\uc0dd\uc131\uc5d0\u0020\uc2e4\ud328\ud558\uc600\uc2b5\ub2c8\ub2e4\u002e",
+    "folderalr": "\uc774\ubbf8\u0020\ud3f4\ub354\uac00\u0020\uc874\uc7ac\ud569\ub2c8\ub2e4\u002e",
+    "folderask": "\ud574\ub2f9\u0020\ud3f4\ub354\uc5d0\u0020\ub2e4\uc6b4\ub85c\ub4dc\ub97c\u0020\ud558\uc2dc\uaca0\uc2b5\ub2c8\uae4c\u003f\u0020\u003a\u0020",
+    "foldery": "\ud574\ub2f9\u0020\ud3f4\ub354\uc5d0\u0020\uc11c\ubc84\ub97c\u0020\uc0dd\uc131\ud569\ub2c8\ub2e4\u002e",
+    "api3failed": "\u0041\u0050\u0049\u0020\uc694\uccad\uc774\u0020\u0033\ud68c\u0020\uc774\uc0c1\u0020\uc2e4\ud328\ud558\uc600\uc2b5\ub2c8\ub2e4\u002e",
+    "nextcheck": "\ub2e4\uc74c\uc744\u0020\uc0ac\ud56d\uc744\u0020\ud655\uc778\ud574\u0020\uc8fc\uc2ed\uc2dc\uc624\u003a",
+    "check1": "\u0020\u0020\u0031\u002e\u0020\ub124\ud2b8\uc6cc\ud06c\u0020\uc5f0\uacb0\uc774\u0020\uc6d0\ud65c\ud55c\uc9c0\u0020\ud655\uc778\u0020\ud574\uc8fc\uc2ed\uc2dc\uc624\u002e",
+    "check2": "\u0020\u0020\u0032\u002e\u0020\u0070\u0061\u0070\u0065\u0072\u006d\u0063\u002e\u0069\u006f\u0020\uc11c\ubc84\u0020\uc0c1\ud0dc\ub97c\u0020\ud655\uc778\u0020\ud574\uc8fc\uc2ed\uc2dc\uc624\u002e",
+    "check3": "\u0020\u0020\u0033\u002e\u0020\uc62c\ubc14\ub978\u0020\ubc84\uc804\uc744\u0020\uae30\uc785\ud558\uc600\ub294\uc9c0\u0020\ud655\uc778\u0020\ud574\u0020\uc8fc\uc2ed\uc2dc\uc624\u003a\u0020",
+    "checkif3": "\ub9cc\uc57d\u0020\u0033\ubc88\u0020\uc0ac\ud56d\uc774\u0020\ubd88\ub7c9\uc774\ub77c\uba74\u0020\u0079\ub97c\u002c\u0020\ub2e4\ub978\u0020\uc0ac\ud56d\uc774\ub77c\uba74\u0020\u006e\uc744\u0020\uae30\uc785\ud574\u0020\uc8fc\uc2ed\uc2dc\uc624\u002e"
+  },
+  "en_us": {
+    "blank": " ",
+    "EULA1": "This programme requires EULA agreement.",
+    "EULA2": "Would you agree to the EULA?",
+    "EULAsuc": "You have agreed to the EULA: ",
+    "taskkill": "Exit the program.",
+    "misping": "Invalid input.",
+    "ipath": "Enter the location where the server folder will be created",
+    "svname": "Enter a name for the server folder",
+    "sver": "Enter server version: ex) 1.19.4",
+    "APIfailed": "API request failed. Response code: ",
+    "folderfailed": "Failed to create folder.",
+    "folderalr": "The folder already exists.",
+    "folderask": "Do you want to download to that folder? : ",
+    "foldery": "Create a server in that folder.",
+    "api3failed": "API request failed more than 3 times.",
+    "nextcheck": "Please confirm the following:",
+    "check1": "  1. Please make sure the network connection",
+    "check2": "  2. Please check the status of the papermc.io server.",
+    "check3": "  3. Please confirm that you have entered the correct version: ",
+    "checkif3": "If number 3 is defective, please enter Y and if it is different, please enter N."
+  }
+}
