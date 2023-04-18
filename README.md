@@ -21,6 +21,6 @@ Features currently implemented:
 - Language change
 
 Features not implemented:
-- - `server.properties` 수정
+- fixing `server.properties`
 - Modify server version
 - Automatic restart of programs
